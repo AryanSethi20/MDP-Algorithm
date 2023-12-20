@@ -12,6 +12,8 @@ Build a robotic system that can
 - How to represent the navigational area, the robot, the obstacles and images
 - How to find a (shortest/fastest) Hamiltonian path from START point
 
+To know more about the whole project, refer to this <a href="https://youtu.be/yBU9GVi0jEQ">video</a> on YouTube
+
 <hr>
 
 ## Actual Task 1 Demo:
